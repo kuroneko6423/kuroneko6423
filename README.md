@@ -5,7 +5,7 @@
  </div>
  
 # About Me
-Discord MusicbotやTwitch翻訳botなどを作っています。
+Discord MusicbotやTwitch翻訳botなどを作っています。<br>
 中3の14歳です(2021年11月1日時点)
 
 ## Language and tools:
