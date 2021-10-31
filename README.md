@@ -1,6 +1,6 @@
 <div align="center">
- <a href="https://kuroneko6423.com">
-      <img src="https://kuroneko6423.com/kuronekoServer.png" width="80">
+ <a >
+      <img img align="left" alt="KuronekoServer" width="80" src="https://kuroneko6423.com/kuronekoServer.png" href="https://kuroneko6423.com">
     </a>
  </div>
  
