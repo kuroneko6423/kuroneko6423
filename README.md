@@ -1,8 +1,11 @@
+<div align="center">
  <a href="https://kuroneko6423.com">
       <img src="https://kuroneko6423.com/kuronekoServer.png" alt="Discord" width="80">
     </a>
+ </div>
+ 
 # About Me
-Discord Musicbotや Twitch翻訳botを作っています。
+Discord MusicbotやTwitch翻訳botなどを作っています。
 
 ## Language and tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
