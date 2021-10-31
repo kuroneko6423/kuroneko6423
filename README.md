@@ -12,13 +12,13 @@
 ---
 
 <div align="center">
-  <a href="https://discord.gg/yuZePYe">
+  <a href="https://discord.gg/Y6w5Jv3EAR">
       <img src="https://i.imgur.com/ozcp5wz.png" alt="Discord" width="80">
     </a>
-  <a href="https://twitter.com/Kigou_">
+  <a href="https://twitter.com/kuroneko6423">
       <img src="https://i.imgur.com/dymuNOd.png" alt="Twitter" width="80">
   </a>
-  <a href="mailto:contactkigou@gmail.com" >
+  <a href="support@kuroneko6423.com" >
     <img src="https://i.imgur.com/3K0Z67T.png" alt="Mail" width="80">
   </a>
   
