@@ -10,12 +10,6 @@
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/0nw4gYG.png" />  <br>
 
 ---
-## My Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kigou-No1&count_private=true&show_icons=true&theme=dracula" />
-</a><br>
-
----
 
 <div align="center">
   <a href="https://discord.gg/yuZePYe">
