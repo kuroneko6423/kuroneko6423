@@ -1,12 +1,12 @@
+ <a href="https://kuroneko6423.com">
+      <img src="https://kuroneko6423.com/kuronekoServer.png" alt="Discord" width="80">
+    </a>
 # About Me
-- Python Enthusiast
-- Japan High School Student
-- Self Taught Programmer
+Discord Musicbotや Twitch翻訳botを作っています。
 
 ## Language and tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="vs" width="26px" src="https://i.imgur.com/JyQSxmo.png" />
-<img align="left" alt="py" width="26px" src="https://i.imgur.com/nFsNMmF.png" />
+
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/0nw4gYG.png" />  <br>
 
 ---
