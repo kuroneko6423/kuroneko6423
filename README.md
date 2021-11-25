@@ -49,6 +49,7 @@ Discord MusicbotやTwitch翻訳botなどを作っています。<br>
 <p>
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" />
+  <img alt="Linode" src="https://www.linode.com/wp-content/uploads/2021/01/Linode-Logo-Black.svg" />
 </p>
 <h4>OS</h4>
 <p>
