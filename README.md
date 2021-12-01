@@ -28,6 +28,8 @@ Discord MusicbotやTwitch翻訳botなどを作っています。<br>
   
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuroneko6423)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h1><img src="https://cdn.discordapp.com/emojis/861062999330521108.gif" width="30"/> Hi, I'm kuroneko.</h1>
 <h3>Things I code with</h3>
