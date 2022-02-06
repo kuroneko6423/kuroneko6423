@@ -6,7 +6,7 @@
  
 # About Me
 Discord MusicbotやTwitch翻訳botなどを作っています。<br>
-中3の14歳です(2021年11月1日時点)
+中3の15歳です(2022年02月07日)
 
 ## Language and tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
