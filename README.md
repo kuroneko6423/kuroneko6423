@@ -77,16 +77,5 @@ Discord MusicbotやTwitch翻訳botなどを作っています。<br>
   <img alt="MEGA" src="https://img.shields.io/badge/Mega-%23D90007.svg?style=flat-square&logo=Mega&logoColor=white" />
 </p>
 
-![Discord]
-<div align="center">
-    <a href="https://discord.com/users/608788412367110149" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/608788412367110149"></a>
-</div>
 
-<div align="center">
-    <a href="https://discord.com/users/659535054355169290" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/659535054355169290"></a>
-</div>
-
-<div align="center">
-    <a href="https://discord.com/users/902845440972718100" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/902845440972718100"></a>
-</div>
 
