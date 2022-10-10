@@ -76,6 +76,6 @@ Discord MusicbotやTwitch翻訳botなどを作っています。<br>
   <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
   <img alt="MEGA" src="https://img.shields.io/badge/Mega-%23D90007.svg?style=flat-square&logo=Mega&logoColor=white" />
 </p>
-https://discord.c99.nl/widget/theme-1/608788412367110149.png
 
+  <img alt="Discord" src="https://discord.c99.nl/widget/theme-1/608788412367110149.png" />
 
