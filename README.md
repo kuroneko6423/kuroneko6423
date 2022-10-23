@@ -6,7 +6,7 @@
  
 # About Me
 Discord MusicbotやTwitch翻訳botなどを作っています。<br>
-中3の15歳です(2022年02月07日)
+高1の15歳です(2022年10月023日)
 
 ## Language and tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
@@ -27,6 +27,9 @@ Discord MusicbotやTwitch翻訳botなどを作っています。<br>
   </a>
   
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuroneko6423&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuroneko6423)](https://github.com/anuraghazra/github-readme-stats)
