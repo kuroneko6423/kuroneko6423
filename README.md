@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://kuroneko6423.com">
-      <img src="kuronekoServer.jpg" alt="KuronekoServer" width="450">
+      <img src="https://cdn.kuroneko6423.com/kuronekoserver/wide-logo-white.png" alt="KuronekoServer">
     </a>
  </div>
  
 # About Me
-Discord MusicbotやTwitch翻訳botなどを作っています。<br>
-高1
+ただの高校生です。
+12月26日生まれ
 
 ## Language and tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
