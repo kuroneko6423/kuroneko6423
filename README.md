@@ -8,33 +8,6 @@
 ただの高校生です。
 12月26日生まれ
 
-## Language and tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/0nw4gYG.png" />  <br>
-
----
-
-<div align="center">
-  <a href="https://discord.gg/Y6w5Jv3EAR">
-      <img src="https://i.imgur.com/ozcp5wz.png" alt="Discord" width="80">
-    </a>
-  <a href="https://twitter.com/kuroneko6423">
-      <img src="https://i.imgur.com/dymuNOd.png" alt="Twitter" width="80">
-  </a>
-  <a href="support@kuroneko6423.com" >
-    <img src="https://i.imgur.com/3K0Z67T.png" alt="Mail" width="80">
-  </a>
-  
-</div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuroneko6423&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuroneko6423)](https://github.com/anuraghazra/github-readme-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuroneko6423&theme=github_dark)
-
 <h1><img src="https://cdn.discordapp.com/emojis/861062999330521108.gif" width="30"/> Hi, I'm kuroneko.</h1>
 <h3>Things I code with</h3>
 <h4>Languages</h4>
