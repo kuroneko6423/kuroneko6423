@@ -21,7 +21,6 @@
 <h4>Editors</h4>
 <p>
   <img alt="Intelij IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" />
-  <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green" />
   <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 <h4>Hosting</h4>
@@ -38,7 +37,6 @@
 <h4>Browsers</h4>
 <p>
   <img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white" />
-  <img alt="Opera" src="https://img.shields.io/badge/Opera-FF1B2D?style=flat-square&logo=Opera&logoColor=white" />
   <img alt="Google" src="https://img.shields.io/badge/google-4285F4?style=flat-square&logo=google&logoColor=white" />
 </p>
 <h4>Social</h4>
