@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://kuroneko6423.com">
-      <img src="https://cdn.krnk.org/kuronekoserver/wide-logo-white.png" alt="KuronekoServer">
+      <img src="https://cdn.krnk.org/kuronekoserver/logo-wide-white.webp" alt="KuronekoServer">
     </a>
  </div>
  
