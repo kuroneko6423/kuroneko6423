@@ -5,8 +5,7 @@
  </div>
  
 # About Me
-ただの高校生です。
-12月26日生まれ
+https://profile.kuroneko6423.com
 
 <h1><img src="https://cdn.discordapp.com/emojis/861062999330521108.gif" width="30"/> Hi, I'm kuroneko.</h1>
 <h3>Things I code with</h3>
